@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\monsterpc\\desktop\\final proje\\final proje\\hotelreservationsystem\\dal\\rezervasyondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\dal\\rezervasyondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\monsterpc\\desktop\\final proje\\final proje\\hotelreservationsystem\\domain\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\domain\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\monsterpc\\desktop\\final proje\\final proje\\hotelreservationsystem\\service\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\service\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\hotelreservationsystem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\hotelreservationsystem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\hotelreservationsystem\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\monsterpc\\desktop\\final proje\\final proje\\hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\hotelreservationsystem\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\hotelreservationsystem\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Domain\\Rezervasyon.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Domain\\Rezervasyon.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Domain\\Rezervasyon.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Domain\\Rezervasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:41:21.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rezervasyonDAO.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\DAL\\rezervasyonDAO.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\DAL\\rezervasyonDAO.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\DAL\\rezervasyonDAO.cs",
+              "RelativeToolTip": "HotelReservationSystem\\DAL\\rezervasyonDAO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBUAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:35:52.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rezervasyonService.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Service\\rezervasyonService.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Service\\rezervasyonService.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Service\\rezervasyonService.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Service\\rezervasyonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:39:04.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Program.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:29:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Rezervasyon.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Rezervasyon.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Rezervasyon.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Rezervasyon.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA+wBoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:23:18.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rezervasyon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Rezervasyon.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Rezervasyon.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Rezervasyon.cs [Design]",
+              "RelativeToolTip": "HotelReservationSystem\\Rezervasyon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:23:12.097Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Oda.cs",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Oda.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Oda.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Oda.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Oda.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:21:46.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Oda.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Oda.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Oda.cs [Design]",
+              "RelativeToolTip": "HotelReservationSystem\\Oda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:46:17.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Musteri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Musteri.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Musteri.cs",
+              "ToolTip": "C:\\Users\\MonsterPC\\Desktop\\Final Proje\\Final Proje\\HotelReservationSystem\\Musteri.cs [Design]",
+              "RelativeToolTip": "HotelReservationSystem\\Musteri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:23:37.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
