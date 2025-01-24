@@ -1,4 +1,6 @@
 # OtelRezervasyonSistemi
+# YOUTUBE VİDEO LİNKİ : https://youtu.be/loWBDELV-p0
+
 # Class Diyagramı
 ![Ekran görüntüsü 2025-01-24 173137](https://github.com/user-attachments/assets/5a505c9e-cd2c-4017-b99a-95d16227c791)
 # Use-Case Diyagramı
